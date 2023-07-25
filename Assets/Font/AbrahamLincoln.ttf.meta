@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 3bebc1e168bd4c8a86e313d802e3f8a8
+timeCreated: 1690221322
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: "AbrahamLincoln"
+  fontNames:
+  - Abraham Lincoln
+  fallbackFontReferences: []
+  customCharacters:
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData:
+  assetBundleName: 
+  assetBundleVariant: 
